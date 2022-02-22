@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankTests", "BankTests\BankTests.csproj", "{ED466DE0-A54F-4483-8EF8-7B56CF702B32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroVS", "IntroVS\IntroVS.csproj", "{541E27D1-C973-4BDA-AD1D-ADB42E238CD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroVS", "IntroVS\IntroVS.csproj", "{541E27D1-C973-4BDA-AD1D-ADB42E238CD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fake", "Fake\Fake.csproj", "{2DE8A7CB-F496-4D1F-B6B8-23B9878F0EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeTests", "FakeTests\FakeTests.csproj", "{DF49AEF7-8F6A-4C69-A7CF-E552633C344C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{541E27D1-C973-4BDA-AD1D-ADB42E238CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{541E27D1-C973-4BDA-AD1D-ADB42E238CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{541E27D1-C973-4BDA-AD1D-ADB42E238CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE8A7CB-F496-4D1F-B6B8-23B9878F0EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE8A7CB-F496-4D1F-B6B8-23B9878F0EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE8A7CB-F496-4D1F-B6B8-23B9878F0EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE8A7CB-F496-4D1F-B6B8-23B9878F0EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF49AEF7-8F6A-4C69-A7CF-E552633C344C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF49AEF7-8F6A-4C69-A7CF-E552633C344C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF49AEF7-8F6A-4C69-A7CF-E552633C344C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF49AEF7-8F6A-4C69-A7CF-E552633C344C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
