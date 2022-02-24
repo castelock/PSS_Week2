@@ -13,6 +13,7 @@ namespace IntroVS
     {
         public static void Main(string[] args)
         {
+            int num = 12;
             Console.WriteLine("Hello World");
         }
 

@@ -12,6 +12,7 @@ namespace Fake
         {
             bool? result = null;
             return (bool)result;
+             
         }
     }
 }
